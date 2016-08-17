@@ -1,0 +1,14 @@
+{
+  "name": "object_factory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "npm install && npm start",
+    "start": "node test.js",
+    "install": "node-gyp rebuild"
+  },
+  "author": "",
+  "license": "ISC",
+  "gypfile": true
+}
